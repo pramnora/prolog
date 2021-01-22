@@ -5,8 +5,11 @@ I'm interested in AI/Artificial Intelligence...; therefore, I'm also interested 
 
 # Download/Code online
 
-WikiPedia article  
+WikiPedia articles  
 https://en.wikipedia.org/wiki/SWI-Prolog  
+https://en.wikipedia.org/wiki/Category:Prolog_programming_language_family  
+https://en.wikipedia.org/wiki/Prolog_syntax_and_semantics  
+
 
 SWI PROLOG  
 https://www.swi-prolog.org/  
