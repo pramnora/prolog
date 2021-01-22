@@ -7,6 +7,8 @@ I'm interested in AI/Artificial Intelligence...; therefore, I'm also interested 
 
 SWI PROLOG  
 https://www.swi-prolog.org/  
+https://www.swi-prolog.org/pldoc/doc_for?object=manual    
+https://www.swi-prolog.org/pldoc/man?section=quickstart  
 
 Cliopatria  
 http://cliopatria.swi-prolog.org/swish/p/4.pl  
