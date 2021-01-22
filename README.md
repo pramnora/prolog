@@ -5,6 +5,9 @@ I'm interested in AI/Artificial Intelligence...; therefore, I'm also interested 
 
 # Download/Code online
 
+WikiPedia article  
+https://en.wikipedia.org/wiki/SWI-Prolog  
+
 SWI PROLOG  
 https://www.swi-prolog.org/  
 https://www.swi-prolog.org/pldoc/doc_for?object=manual    
@@ -15,6 +18,4 @@ http://cliopatria.swi-prolog.org/swish/p/4.pl
 
 SWISH  
 https://swish.swi-prolog.org/example/examples.swinb  
-
--(**NOTE**: The above SWI resources I've still not used any of them, yet; not even to download the program.)-  
 
