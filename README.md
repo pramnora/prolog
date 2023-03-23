@@ -23,3 +23,7 @@ SWISH
 https://swish.swi-prolog.org/example/examples.swinb  
 https://swish.swi-prolog.org/p/kb_rja.pl
 
+## Prolog Tutorials
+
+TutorialsPoint  
+- https://www.tutorialspoint.com/prolog/prolog_quick_guide.htm  
