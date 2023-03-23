@@ -6,22 +6,22 @@ I'm interested in AI/Artificial Intelligence...; therefore, I'm also interested 
 # Download/Code online
 
 WikiPedia articles  
-https://en.wikipedia.org/wiki/SWI-Prolog  
-https://en.wikipedia.org/wiki/Category:Prolog_programming_language_family  
-https://en.wikipedia.org/wiki/Prolog_syntax_and_semantics  
+- https://en.wikipedia.org/wiki/SWI-Prolog   
+- https://en.wikipedia.org/wiki/Category:Prolog_programming_language_family  
+- https://en.wikipedia.org/wiki/Prolog_syntax_and_semantics  
 
 
 SWI PROLOG  
-https://www.swi-prolog.org/  
-https://www.swi-prolog.org/pldoc/doc_for?object=manual    
-https://www.swi-prolog.org/pldoc/man?section=quickstart  
+- https://www.swi-prolog.org/  
+- https://www.swi-prolog.org/pldoc/doc_for?object=manual    
+- https://www.swi-prolog.org/pldoc/man?section=quickstart  
 
 Cliopatria  
-http://cliopatria.swi-prolog.org/swish/p/4.pl  
+- http://cliopatria.swi-prolog.org/swish/p/4.pl  
 
 SWISH  
-https://swish.swi-prolog.org/example/examples.swinb  
-https://swish.swi-prolog.org/p/kb_rja.pl
+- https://swish.swi-prolog.org/example/examples.swinb  
+- https://swish.swi-prolog.org/p/kb_rja.pl
 
 ## Prolog Tutorials
 
