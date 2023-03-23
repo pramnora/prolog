@@ -21,4 +21,5 @@ http://cliopatria.swi-prolog.org/swish/p/4.pl
 
 SWISH  
 https://swish.swi-prolog.org/example/examples.swinb  
+https://swish.swi-prolog.org/p/kb_rja.pl
 
